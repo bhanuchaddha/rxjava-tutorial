@@ -1,4 +1,4 @@
-package com.lct.reactive;
+package com.lct.reactive.type;
 
 import io.reactivex.Completable;
 

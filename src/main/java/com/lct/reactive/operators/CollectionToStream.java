@@ -1,4 +1,4 @@
-package com.lct.reactive.operations;
+package com.lct.reactive.operators;
 
 /**
  * Observable.fromIterable or Flowable.fromIterable. fromArray

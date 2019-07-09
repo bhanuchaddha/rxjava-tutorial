@@ -1,4 +1,4 @@
-package com.lct.reactive.operations;
+package com.lct.reactive.operators;
 
 /*
 * The skip operator creates a stream that skips the first items emitted by the observed stream and emits the remainder.

@@ -1,4 +1,4 @@
-package com.lct.reactive.operations;
+package com.lct.reactive.operators;
 
 /**
  * FlatMap takes each item emitted by the observable stream and maps it to another stream (this is the map part).

@@ -1,4 +1,4 @@
-package com.lct.reactive.operations;
+package com.lct.reactive.operators;
 
 /*
 * Sometimes, when you realize that your stream is empty, you want to inject some sensible defaults.
@@ -9,7 +9,6 @@ import io.reactivex.Observable;
 import io.reactivex.Single;
 import lombok.AllArgsConstructor;
 
-import javax.jws.soap.SOAPBinding;
 import java.util.Arrays;
 import java.util.List;
 

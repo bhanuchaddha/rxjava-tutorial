@@ -1,4 +1,4 @@
-package com.lct.reactive.operations;
+package com.lct.reactive.operators;
 
 import io.reactivex.Observable;
 

@@ -1,4 +1,4 @@
-package com.lct.reactive.operations;
+package com.lct.reactive.operators;
 
 import com.github.javafaker.Faker;
 import io.reactivex.Flowable;
